@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(175, 134, 207);
+    text-align: center;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Playpen Sans', cursive;
+    text-align: center;
+    color: white;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Playpen Sans', cursive;
+}
+
+nav{
+    text-align: left;
+    font-family: 'Assistant', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Playpen Sans', cursive;
+    margin: 5px;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+    border-radius: 20%;
+}
+
+h2 img{
+    width: 500px;
+    height: 300px;
+    border-radius: 20%
+}
+
+.tarjeta{
+    background-color: rgb(165, 130, 197);
+    text-align: left;
+}
+
+p{
+    font-family: 'Assistant', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Playpen Sans', cursive;
+}
+
+ul li{
+    margin: 5px;
+    font-family: 'Assistant', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Playpen Sans', cursive;
+}
+
+form p{
+    text-align: center;
+}
